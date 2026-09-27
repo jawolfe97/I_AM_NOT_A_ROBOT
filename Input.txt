@@ -1,0 +1,3 @@
+Target_Link - https://pubs.acs.org/pages/rss
+Link_Search_Pattern - asap.xml
+SubLink_Search_Pattern - https://pubs.rsc.org/rss/
