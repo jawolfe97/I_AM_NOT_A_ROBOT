@@ -1,0 +1,19 @@
+**Contains Page with RSS Feeds Contained in Individual Subpages
+
+ACS - https://pubs.acs.org/pages/rss
+RSC** - https://pubs.rsc.org/pages/journals-browse
+Wiley** - https://www.wiley.com/en-us/journal-finder
+BioRxiv - https://www.biorxiv.org/alertsrss
+ChemRxiv** -
+Frontiers - https://www.frontiersin.org/news/2022/06/30/frontiers-social-media-and-rss
+MDPI - https://www.mdpi.com/about/journals
+AAAS** - https://www.aaas.org/journals
+Nature Portfolio** - https://www.nature.com/nature-portfolio/about-journals/research-journals
+Oxford University** Press - https://academic.oup.com/journals/pages/journals_a_to_z
+Annual Reviews** - https://www.annualreviews.org/content/publications?pageSize=80
+Taylor & Francis** - https://www.tandfonline.com/action/showPublications?pubType=journal&pageSize=50&subjectTitle=&startPage=0
+PLOS** - https://plos.org/our-journals/
+National Academy of Sciences** - https://www.nasonline.org/publications/
+SAGE Publications** - https://journals.sagepub.com/action/showPublications?pageSize=500&startPage=0
+Elisever** - https://www.elsevier.com/products/journals?query=&page=1&sortBy=alphabeticalAsc
+Cambridge University Press - https://www.cambridge.org/core/publications/journals
